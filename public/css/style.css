@@ -1,0 +1,54 @@
+form .avatar
+{
+    width: 55px;
+    margin-bottom: 15px;
+
+}
+
+
+.navbar .container-avatar
+{
+    width: 35px;
+    height: 35px;
+    border-radius: 900px;
+    overflow: hidden;
+}
+
+.navbar .container-avatar img
+{
+    height: 100%;
+}
+
+.imagen-control{
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+
+}
+
+.imagen-control img{
+    width: 100%;
+
+
+}
+
+.card-body{
+    padding: 0;
+}
+.card-body .description{
+    padding: 10px;
+}
+
+.likes img,
+.comment img {
+    padding: 8px;
+}
+
+.likes img {
+    float: left;
+    /* float: right; */
+}
+
+.reset{
+    clear: both;
+}
